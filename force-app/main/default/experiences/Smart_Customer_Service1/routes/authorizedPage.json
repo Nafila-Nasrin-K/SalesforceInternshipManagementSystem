@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "97efa352-6835-4159-aa13-5fc50e7b6707",
+  "appPageId" : "e760c26f-6e6a-4aa5-8096-9d4240715995",
+  "configurationTags" : [ ],
+  "devName" : "Authorized_Page__c",
+  "id" : "70b53885-fe7a-4aa0-8ca8-c2636591fd1b",
+  "label" : "Authorized Page",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-authorized-page",
+  "type" : "route",
+  "urlPrefix" : "authorized-page"
+}

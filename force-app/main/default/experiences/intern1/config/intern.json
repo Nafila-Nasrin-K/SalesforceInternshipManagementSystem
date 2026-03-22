@@ -1,0 +1,11 @@
+{
+  "forgotPasswordRouteId" : "6f09dc78-a56f-4b7f-8987-90b49a2d0cb3",
+  "isAvailableToGuests" : false,
+  "isFilteredComponentsView" : false,
+  "isProgressiveRenderingEnabled" : false,
+  "loginAppPageId" : "8395147c-2841-490a-ad11-446a46a328e9",
+  "mainAppPageId" : "562e4b4a-8c32-4255-9dca-db0848490e7c",
+  "preferredDomain" : "none",
+  "selfRegistrationRouteId" : "cc1c6be7-0cfe-49a2-841f-699b10016de7",
+  "type" : "site"
+}

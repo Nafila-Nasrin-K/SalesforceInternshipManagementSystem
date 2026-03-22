@@ -1,0 +1,52 @@
+{
+  "appPageId" : "6216eff2-5add-45e3-8bec-dddbc32388eb",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "45e291ee-51bd-4ac4-9eb7-57844561defe",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.ChatGPT_Image_Mar_11_2026_07_28_001.1}\" style=\"width: 688px; height: 688px;\"></p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "52576ffb-773f-4547-b931-8f9e8ea55f17",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a8646247-a8ba-4ae7-8e8c-d49fd1c3a9c5",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "3f58c3bd-1eef-4196-9bf0-9e079d088451",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "b04fb79d-747d-4b73-bc15-6c8b0af00d18",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "112f9b30-5c99-4241-870b-fdc307de7bcc",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "ac1d8707-3377-4751-a44c-39253733e431",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d6175b9c-c8d9-43ff-8adf-829da20e5647",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}
